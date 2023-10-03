@@ -8,7 +8,7 @@ let changeBtn6 = document.getElementById('changeImg6');
 
 
 function changeImg(imgUrl) {
-    productImg.src = imgUrl;
+    productImg.src = imgUrl
 }
 
 // changeBtn.addEventListener('click', changeImage);
